@@ -3,7 +3,7 @@ require("dotenv").config();
 const dbUrl = process.env.DATABASE_URL;
 console.log(`Connecting to DB: ${dbUrl}`);
 
-// NOTE:
+// NOTE: This is a comment
 const englishCode = "en-US";
 const spanishCode = "es-ES";
 
